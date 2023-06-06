@@ -65,7 +65,7 @@ function App() {
   return (
     <div className='App'>
         <FormProvider {...methods}>
-        <Container maxWidth="sm" style={{marginTop: '50px'}}>
+        <Container maxWidth="xs" style={{marginTop: '50px'}}>
         <Box sx={{p: 2, pb: 0, width: 360}}>
         <Stack spacing={1} direction='column' className='btns'>
                 <Button onClick={getUsers} variant='contained' color='primary' size='small'>Получить список пользователей</Button>
