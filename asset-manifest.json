@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/users_from_mockapi/static/css/main.fd60e252.css",
+    "main.js": "/users_from_mockapi/static/js/main.baec7e7c.js",
+    "index.html": "/users_from_mockapi/index.html",
+    "main.fd60e252.css.map": "/users_from_mockapi/static/css/main.fd60e252.css.map",
+    "main.baec7e7c.js.map": "/users_from_mockapi/static/js/main.baec7e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd60e252.css",
+    "static/js/main.baec7e7c.js"
+  ]
+}
