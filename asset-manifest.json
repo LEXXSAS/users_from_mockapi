@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/users_from_mockapi/static/css/main.a139f92c.css",
-    "main.js": "/users_from_mockapi/static/js/main.26b3d866.js",
+    "main.css": "/users_from_mockapi/static/css/main.76fb4e71.css",
+    "main.js": "/users_from_mockapi/static/js/main.a476525b.js",
     "index.html": "/users_from_mockapi/index.html",
-    "main.a139f92c.css.map": "/users_from_mockapi/static/css/main.a139f92c.css.map",
-    "main.26b3d866.js.map": "/users_from_mockapi/static/js/main.26b3d866.js.map"
+    "main.76fb4e71.css.map": "/users_from_mockapi/static/css/main.76fb4e71.css.map",
+    "main.a476525b.js.map": "/users_from_mockapi/static/js/main.a476525b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a139f92c.css",
-    "static/js/main.26b3d866.js"
+    "static/css/main.76fb4e71.css",
+    "static/js/main.a476525b.js"
   ]
 }
