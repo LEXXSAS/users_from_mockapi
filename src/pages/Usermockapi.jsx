@@ -119,8 +119,8 @@ const Usermockapi = () => {
                 <TableHead>
                   <TableRow>
                     {/* <TableCell ></TableCell> */}
-                    {/* <TableCell align="left">Message</TableCell> */}
-                    {/* <TableCell ></TableCell> */}
+                    <TableCell align="left">Пользователь</TableCell>
+                    <TableCell></TableCell>
                   </TableRow>
                 </TableHead>
                 <TableBody>
