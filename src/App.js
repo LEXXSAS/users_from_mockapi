@@ -1,12 +1,16 @@
 import React from 'react'
+import { useState } from 'react';
 import Usermockapi from './pages/Usermockapi';
 import Loginpage from './pages/Loginpage';
 import NotFound from './pages/NotFound';
 import { Navigate, Route, Routes } from 'react-router-dom';
+import { AppContext } from './components/context';
 
 function App() {
+  const [localEmail, setLocalEmail] = useState('');
 
   return (
+    <AppContext.Provider value={{localEmail, setLocalEmail}} >
     <div className='App'>
       <div className='container'>
       <Routes>
@@ -19,6 +23,7 @@ function App() {
       </Routes>
       </div>
     </div>
+    </AppContext.Provider>
   );
 }
 
