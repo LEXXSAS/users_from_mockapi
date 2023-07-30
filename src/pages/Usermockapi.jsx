@@ -69,6 +69,7 @@ const Usermockapi = () => {
       let navigate = useNavigate();
     
       useEffect(() => {
+        getUsers()
         const listen = onAuthStateChanged(auth, (user) => {
           if (user) {
             setAuthUser(user)
